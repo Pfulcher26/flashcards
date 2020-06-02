@@ -1,0 +1,25 @@
+.definition-showing {
+    display: none;
+  }
+
+  .definition-showing2 {
+    display: none;
+  }
+
+  p{
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  p:hover {
+    text-decoration: underline;
+  }
+
+  p3{
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  p3:hover {
+    text-decoration: underline;
+  }
