@@ -6,6 +6,10 @@
     display: none;
   }
 
+  .definition-showing3 {
+    display: none;
+  }
+
   p{
     cursor: pointer;
     color: #0088cc;
@@ -21,5 +25,15 @@
   }
   
   p3:hover {
+    text-decoration: underline;
+  }
+
+
+  p5{
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  p5:hover {
     text-decoration: underline;
   }
